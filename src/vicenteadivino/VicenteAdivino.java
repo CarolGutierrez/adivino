@@ -7,7 +7,8 @@ import java.util.Scanner;
 public class VicenteAdivino {
 
   public static void main(String[] args) {
-        int n = 0,cont = 0;
+      //Revisado por Carolina Gutiérrez. Todo correcto  
+      int n = 0,cont = 0;
         int x = (int) (Math.random()*((50-10+1)+10));
         //System.out.print(x);
         Scanner sc = new Scanner(System.in);
